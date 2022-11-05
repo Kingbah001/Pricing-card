@@ -1,0 +1,29 @@
+@media screen and (max-width:1330px) {
+    .header{
+        text-align: center;
+    }
+    .body{
+        width: 80%;
+        margin: 20px auto;
+        /* display: block; */
+    }
+    .content-container{
+        display: block;
+        text-align: center;
+        padding: 0 0 20px 0;
+    }
+    .body-content{
+        border-right: none;
+        padding-bottom: 20px;
+        width: 100%;
+    }
+    .body-content-last{
+        width: 100%;
+    }
+    .button{
+        margin: 40px auto;
+    }
+    .button-1{
+        margin: 40px auto;
+    }
+}
